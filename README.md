@@ -1,8 +1,6 @@
 # packet_ninja
 packet_ninja
 
-Based on the legend - Vit Bukac's Master Thesis - IDS evasion techniques
-
 
                        @@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@.@@@@.                               
                      .@@@(&@@@@@@@@@@@@@@@@@@@@@@@@@@@@&(@@@,                              
@@ -19,7 +17,6 @@ Based on the legend - Vit Bukac's Master Thesis - IDS evasion techniques
            @@@@@@&@  #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#                              
            #@@@@@@    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                               
             &@@@@      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  
-linkedin - https://www.linkedin.com/in/vitbukac/?locale=en_US
 
 
 
